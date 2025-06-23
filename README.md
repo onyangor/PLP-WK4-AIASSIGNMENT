@@ -102,3 +102,10 @@ This project is licensed under the **MIT License** – see `LICENSE` for details
 ## 🙋‍♂️ Author
 Ray – Computer Science graduate, PLP Academy Cohort Feb 2025.  
 For questions reach out on the course community Slack (#AISoftwareAssignment).  
+
+## Contributors
+1. Ray Otieno  onyangoraybeckham@gmail.com
+2. Andrew Masau andrewmasau@gmail.com
+3. Bernice Waithera  bernicewaithera@gmail.com
+4. Neddy Sigey
+5. Kelvin Githua
