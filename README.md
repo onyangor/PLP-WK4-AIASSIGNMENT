@@ -6,7 +6,7 @@ The goal is to demonstrate how AI techniques can automate tasks, enhance decisio
 
 ---
 
-## 📁 Repository Layout
+##  Repository Layout
 
 | Path | Purpose |
 |------|---------|
@@ -20,7 +20,7 @@ The goal is to demonstrate how AI techniques can automate tasks, enhance decisio
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ```bash
 # 1 – Clone the repo
@@ -41,7 +41,7 @@ pip install -r requirements.txt   # or run the one‑liner below
 
 ---
 
-## 📊 Running the Tasks
+##  Running the Tasks
 
 ### Task 1 – AI‑Powered Code Completion
 ```bash
@@ -65,12 +65,12 @@ Outputs accuracy/F1 scores and a feature‑importance plot.
 
 ---
 
-## 🧑‍⚖️ Ethical Reflection
+##  Ethical Reflection
 See **Section 3** of `reports/Week4_AI_in_Software_Engineering_Assignment.pdf` for bias analysis and mitigation using IBM AIF360.
 
 ---
 
-## 📝 Dependencies
+##  Dependencies
 
 | Package | Tested Version |
 |---------|----------------|
@@ -83,7 +83,7 @@ See **Section 3** of `reports/Week4_AI_in_Software_Engineering_Assignment.pdf` 
 
 ---
 
-## 🔄 Re‑creating the Environment (online Jupyter)
+##  Re‑creating the Environment (online Jupyter)
 
 If the system env is read‑only:
 
@@ -94,12 +94,12 @@ If the system env is read‑only:
 
 ---
 
-## 📜 License
+##  License
 This project is licensed under the **MIT License** – see `LICENSE` for details.
 
 ---
 
-## 🙋‍♂️ Author
+##  Author
 Ray – Computer Science graduate, PLP Academy Cohort Feb 2025.  
 For questions reach out on the course community Slack (#AISoftwareAssignment).  
 
