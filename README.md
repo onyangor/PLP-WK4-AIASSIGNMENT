@@ -24,8 +24,8 @@ The goal is to demonstrate how AI techniques can automate tasks, enhance decisio
 
 ```bash
 # 1 – Clone the repo
-git clone https://github.com/<your‑username>/ai‑se‑week4.git
-cd ai‑se‑week4
+git clone https://github.com/onyangor/PLP-WK4-AIASSIGNMENT.git
+cd PLP-WK4-AIASSIGNMENT
 
 # 2 – Create or activate a Python 3.11+ venv
 python -m venv .venv && source .venv/bin/activate
